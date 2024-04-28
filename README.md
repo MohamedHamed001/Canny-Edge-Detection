@@ -41,7 +41,7 @@ python interface.py
 - `functions.py`: Contains all the image processing functions, including Gaussian blurring, Sobel filters, non-maximum suppression, double thresholding, and hysteresis for edge detection.
 
 ## Example Images
-![Canny Edge Result](images\results\result.png)
+![Canny Edge Result](images/results/result.png)
 
 
 ## Contributing
